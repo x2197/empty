@@ -1,0 +1,24 @@
+{
+  "name": "empty",
+  "version": "1.0.0",
+  "description": "\"# empty\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x2197/empty.git"
+  },
+  "keywords": [],
+  "author": "Prasanta Barman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/x2197/empty/issues"
+  },
+  "homepage": "https://github.com/x2197/empty#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
